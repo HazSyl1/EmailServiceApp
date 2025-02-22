@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnionEmailApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c0d4d279bf1cb0a90d381296e1d9ff628209e5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnionEmailApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnionEmailApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

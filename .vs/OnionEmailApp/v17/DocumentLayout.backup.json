@@ -11,28 +11,28 @@
       "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\infrastructure\\repositories\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\infrastructure\\repositories\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\infrastructure\\services\\smtpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\infrastructure\\services\\smtpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\infrastructure\\repositories\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\infrastructure\\repositories\\emailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\domain\\interfaces\\ismtpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\domain\\interfaces\\ismtpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|solutionrelative:onionemailapp\\application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEC3BFB9-CFCE-4800-ADC0-FE6573A6E1B6}|OnionEmailApp\\OnionEmailApp.csproj|c:\\visual_sample\\onionemailapp\\onionemailapp\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,32 +70,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
-              "RelativeDocumentMoniker": "OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
-              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
-              "RelativeToolTip": "OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmailRepository.cs",
+              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
+              "RelativeDocumentMoniker": "OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
+              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
+              "RelativeToolTip": "OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:59:25.15Z",
+              "WhenOpened": "2025-02-21T20:00:43.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISmtpClient.cs",
+              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
+              "RelativeDocumentMoniker": "OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
+              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
+              "RelativeToolTip": "OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:58:47.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SmtpClient.cs",
+              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
+              "RelativeDocumentMoniker": "OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
+              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
+              "RelativeToolTip": "OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:01:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "OnionEmailApp\\Application\\Services\\EmailService.cs",
               "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Services\\EmailService.cs",
               "RelativeToolTip": "OnionEmailApp\\Application\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T19:59:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "OnionEmailApp\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "OnionEmailApp\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:05:29.941Z",
               "EditorCaption": ""
             },
             {
@@ -106,14 +145,14 @@
               "RelativeDocumentMoniker": "OnionEmailApp\\Views\\Email\\SendOtp.cshtml",
               "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Views\\Email\\SendOtp.cshtml",
               "RelativeToolTip": "OnionEmailApp\\Views\\Email\\SendOtp.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAmwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T20:05:48.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Domain\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "OnionEmailApp\\Domain\\Interfaces\\IRepository.cs",
@@ -126,54 +165,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailRepository.cs",
-              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
-              "RelativeDocumentMoniker": "OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs",
-              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs*",
-              "RelativeToolTip": "OnionEmailApp\\Infrastructure\\Repositories\\EmailRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:00:43.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmailController.cs",
-              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Controllers\\EmailController.cs",
-              "RelativeDocumentMoniker": "OnionEmailApp\\Controllers\\EmailController.cs",
-              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Controllers\\EmailController.cs",
-              "RelativeToolTip": "OnionEmailApp\\Controllers\\EmailController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:05:29.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ISmtpClient.cs",
-              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
-              "RelativeDocumentMoniker": "OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
-              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
-              "RelativeToolTip": "OnionEmailApp\\Domain\\Interfaces\\ISmtpClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "OnionEmailApp\\Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:58:47.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SmtpClient.cs",
-              "DocumentMoniker": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
-              "RelativeDocumentMoniker": "OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
-              "ToolTip": "C:\\Visual_Sample\\OnionEmailApp\\OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
-              "RelativeToolTip": "OnionEmailApp\\Infrastructure\\Services\\SmtpClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:01:06.221Z",
+              "WhenOpened": "2025-02-21T19:59:25.15Z",
               "EditorCaption": ""
             },
             {
@@ -199,8 +199,7 @@
               "RelativeToolTip": "OnionEmailApp\\Domain\\Entities\\Email.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:58:00.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T19:58:00.276Z"
             },
             {
               "$type": "Document",
@@ -212,8 +211,7 @@
               "RelativeToolTip": "OnionEmailApp\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:19:07.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T20:19:07.184Z"
             },
             {
               "$type": "Document",
@@ -225,8 +223,7 @@
               "RelativeToolTip": "OnionEmailApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T20:18:29.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T20:18:29.988Z"
             },
             {
               "$type": "Document",
@@ -238,8 +235,7 @@
               "RelativeToolTip": "OnionEmailApp\\Migrations\\20250221201710_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:17:11.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T20:17:11.555Z"
             },
             {
               "$type": "Document",
@@ -251,8 +247,7 @@
               "RelativeToolTip": "OnionEmailApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-21T20:04:59.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T20:04:59.398Z"
             },
             {
               "$type": "Document",
@@ -264,8 +259,7 @@
               "RelativeToolTip": "OnionEmailApp\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:01:43.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T20:01:43.421Z"
             }
           ]
         }

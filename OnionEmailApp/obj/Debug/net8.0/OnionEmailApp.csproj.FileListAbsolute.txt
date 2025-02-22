@@ -175,3 +175,4 @@ C:\Visual_Sample\OnionEmailApp\OnionEmailApp\obj\Debug\net8.0\refint\OnionEmailA
 C:\Visual_Sample\OnionEmailApp\OnionEmailApp\obj\Debug\net8.0\OnionEmailApp.pdb
 C:\Visual_Sample\OnionEmailApp\OnionEmailApp\obj\Debug\net8.0\OnionEmailApp.genruntimeconfig.cache
 C:\Visual_Sample\OnionEmailApp\OnionEmailApp\obj\Debug\net8.0\ref\OnionEmailApp.dll
+C:\Visual_Sample\OnionEmailApp\OnionEmailApp\obj\Debug\net8.0\OnionEmailApp.sourcelink.json

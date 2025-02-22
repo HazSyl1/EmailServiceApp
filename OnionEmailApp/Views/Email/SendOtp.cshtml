@@ -4,7 +4,7 @@
 
 <h2>Send OTP</h2>
 
-<form id="otpForm">
+<form asp-action="SendOtp" method="post">
     <div class="form-group">
         <label for="email">Email</label>
         <input type="email" class="form-control" id="email" name="email" required>
@@ -16,65 +16,21 @@
     <button type="submit" class="btn btn-primary">Send OTP</button>
 </form>
 
-<button id="sendToAll" class="btn btn-secondary mt-3">Send OTP to All Registered Emails</button>
+<form asp-action="SendOtpToAll" method="post" class="mt-3">
+    <button type="submit" class="btn btn-secondary">Send OTP to All Registered Emails</button>
+</form>
 
-<form id="addEmailForm" class="mt-3">
+<form asp-action="AddEmail" method="post" class="mt-3">
     <div class="form-group">
         <label for="newEmail">Add Email to Database</label>
-        <input type="email" class="form-control" id="newEmail" name="newEmail" required>
+        <input type="email" class="form-control" id="newEmail" name="emailAddress" required>
     </div>
     <button type="submit" class="btn btn-success">Add Email</button>
 </form>
 
-<div id="otpResult" class="mt-3"></div>
-
-@section Scripts {
-    <script>
-        $(document).ready(function () {
-            $('#otpForm').on('submit', function (e) {
-                e.preventDefault();
-
-                $.ajax({
-                    url: '/Email/SendOtp',
-                    type: 'POST',
-                    data: $(this).serialize(),
-                    success: function (response) {
-                        $('#otpResult').html(`OTP sent successfully: ${response.otp}`);
-                    },
-                    error: function () {
-                        $('#otpResult').html('Failed to send OTP.');
-                    }
-                });
-            });
-
-            $('#sendToAll').on('click', function () {
-                $.ajax({
-                    url: '/Email/SendOtpToAll',
-                    type: 'POST',
-                    success: function (response) {
-                        $('#otpResult').html(`OTP sent to all registered emails: ${response.otp}`);
-                    },
-                    error: function () {
-                        $('#otpResult').html('Failed to send OTP to all emails.');
-                    }
-                });
-            });
-
-            $('#addEmailForm').on('submit', function (e) {
-                e.preventDefault();
-
-                $.ajax({
-                    url: '/Email/AddEmail',
-                    type: 'POST',
-                    data: { emailAddress: $('#newEmail').val() },
-                    success: function (response) {
-                        $('#otpResult').html('Email added successfully.');
-                    },
-                    error: function () {
-                        $('#otpResult').html('Failed to add email.');
-                    }
-                });
-            });
-        });
-    </script>
+@if (ViewBag.Message != null)
+{
+    <div class="mt-3 alert alert-info">
+        @ViewBag.Message
+    </div>
 }
